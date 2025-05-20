@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vikas Gawande</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.prod.website-files.com/63fc977c14aaea404dce4439/66bc6d7489da82c885d1f8ee_65a94649fbe8171a8ae56b12_img4.webp">
+<img align="right" alt="coding" width="400" src="https://github.com/VikasGawande/VikasGawande/blob/main/images.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitamunde&label=Profile%20views&color=0e75b6&style=flat" alt="Vikas Gawande" /> </p>
 
 - 🔭 I’m currently working on **Amazon Android App Clone**
