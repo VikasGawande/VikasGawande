@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/VikasGawande/VikasGawande/blob/main/images.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitamunde&label=Profile%20views&color=0e75b6&style=flat" alt="Vikas Gawande" /> </p>
 
-- 🔭 I’m currently working on **Amazon Android App Clone**
+- 🔭 Project currently completed **NextGEN**
 
 - 🌱 I’m currently learning **Spring Boot ,Hibernate, JPA**
 
